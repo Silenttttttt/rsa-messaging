@@ -1,4 +1,4 @@
-#RSA Encryption/Decryption Messaging System
+# RSA Encryption/Decryption Messaging System
 
 This Python program allows users to generate RSA key pairs, share public keys, and encrypt/decrypt messages. The interface is built using PySimpleGUI and the encryption/decryption functionality uses the pycryptodome library.
 
