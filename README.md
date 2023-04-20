@@ -5,11 +5,11 @@ This Python program allows users to generate RSA key pairs, share public keys, a
 
 Dependencies:
 
-  Python 3.x
+  `Python 3.x`
  
-  PySimpleGUI
+  `PySimpleGUI`
 
-  pycryptodome
+  `pycryptodome`
 
 
 To install the dependencies, run:
