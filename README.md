@@ -23,7 +23,7 @@ How to use
 Run the program:
 
 
-`python rsa_messaging_system.py`
+`python rsa_messaging.py`
 1 - When you run the program for the first time, press generate RSA to generate a new key pair. Your public address (`public key`) will be displayed in the interface.
 
 2 - Share your public address (`public key`) with others so they can use it to encrypt messages they want to send to you. Remember, never share your private key.
